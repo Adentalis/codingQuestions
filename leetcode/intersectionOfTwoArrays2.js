@@ -17,3 +17,8 @@ for (let i = 0; i < a.length; i++) {
 }
 
 console.log(res);
+
+/*
+Runtime: 65 ms, faster than 96.63% of JavaScript online submissions for Intersection of Two Arrays II.
+Memory Usage: 42.7 MB, less than 74.00% of JavaScript online submissions for Intersection of Two Arrays II.
+*/
